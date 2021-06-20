@@ -1,2 +1,2 @@
 # cureit-
-MEDICAALS
+MEDICALS
